@@ -2,7 +2,7 @@
 # 👋 Welcome to Imen's GitHub Profile! 👋
 
 ## About Me
-I'm a Université of Sherbrooke alumni and Ecole Polytechnique de Tunisie graduate with a passion for Data Science 📊 and Machine Learning 🤖.
+I'm a Université de Sherbrooke Alumnus and École Polytechnique de Tunisie Graduate with a passion for Data Science 📊 and Machine Learning 🤖.
 ### 🔭 Skills: 
 Python / Java / C / Matlab / SQL
 ## Contact Me:

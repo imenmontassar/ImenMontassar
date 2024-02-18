@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/portfolio-green?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/MGmail-red??style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/MGmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
